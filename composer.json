@@ -1,10 +1,10 @@
 {
-  "name": "alorel/dropbox-v2-php",
+  "name": "jeffersonglemos/dropbox-v2-php",
   "description": "A PHP SDK for Dropbox's v2 API",
   "prefer-stable": true,
   "type": "library",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/Alorel/dropbox-v2-php",
+  "homepage": "https://github.com/jeffersonGlemos/dropbox-v2-php",
   "keywords": [
     "PHP",
     "Dropbox",
@@ -17,6 +17,11 @@
       "email": "a.molcanovas@gmail.com",
       "role": "Developer",
       "homepage": "https://github.com/Alorel"
+    },
+    {
+      "name": "Jefferson",
+      "role": "Developer",
+      "homepage": "https://github.com/jeffersonGlemos"
     }
   ],
   "support": {
